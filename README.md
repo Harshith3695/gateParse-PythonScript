@@ -1,2 +1,2 @@
 # gateParse-PythonScript
-Final code for finding particular gate and re-writing them in the required format.
+Python Script for finding gates in a given verilog file and re-writing them in the required format.
